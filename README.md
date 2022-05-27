@@ -1,0 +1,2 @@
+# shinn.bot
+Hai
